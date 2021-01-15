@@ -1,3 +1,7 @@
+Follow Any Tutorial to Build Something New Getting started in technology isn’t easy, but luckily there are so many tutorials made by community members to help you get started with any new skill. Pick out any tutorial to build something, and show it off on the Day 5 Devpost. If you enjoyed the tutorial, share it with other hackers on Discord.
+
+This is Day 5 Challange of MLH LHD I created a spiral star in python with python modules with the help of Python tutorials of MLH 
+
 ###  Method for Colourful Spiral Method
 `pip install turtles` this will install turtle module in you system then right program [program 2](https://github.com/Ayush7614/Follow-Any-Tutorial-to-Build-Something-New-MLH-LHD-Day-5-Challange/blob/main/program.py)then it succesfully runs.
 
